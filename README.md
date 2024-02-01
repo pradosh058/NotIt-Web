@@ -8,7 +8,7 @@
 [Home Page](https://noteit-website.netlify.app/)
 - In the home page, you can add note and also pin and unpin the note
 
-Archive Page
+[Archive Page](https://noteit-website.netlify.app/archive)
 - In the archive page, you can find the notes that you archived
 
 
